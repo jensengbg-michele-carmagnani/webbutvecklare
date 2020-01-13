@@ -1,0 +1,36 @@
+body {
+  margin: 40px auto;
+  max-width:650px;
+  list-style: height 3px;;
+  font-size:18px;
+  color:#444;
+  padding:0 10px;
+}
+
+li {
+  display: inline-block;
+  text-align: left;
+  ;
+}
+nav { background-color: azure;
+  display: inline-block;
+}
+
+figure {
+padding: 0%;
+}
+
+figure img {
+  width: 100%;
+  }
+
+h1 {
+  display: inline-block;
+  background-color: darkseagreen;
+}
+
+/* article {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(199, 198, 196);
+  } */
+  

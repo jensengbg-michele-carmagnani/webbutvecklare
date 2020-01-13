@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    display: flex;
+
+}
+article {
+background: red;
+padding: 30px;
+margin: auto;
+border: 0;
+max-width: 500px;
+box-shadow: 0 0 30px grey;
+border-radius: 4px;
+}
